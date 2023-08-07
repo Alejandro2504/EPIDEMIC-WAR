@@ -1949,8 +1949,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278255477
+  m_fontColor: {r: 0.45882353, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3453,8 +3453,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278255477
+  m_fontColor: {r: 0.45882353, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3671,8 +3671,8 @@ MonoBehaviour:
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+    rgba: 4278255476
+  m_fontColor: {r: 0.4551431, g: 1, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -3858,7 +3858,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 3
+          m_IntArgument: 2
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -6546,7 +6546,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.9622642, g: 0.21333215, b: 0.21333215, a: 0.392}
+  m_Color: {r: 0.15399736, g: 0.6320754, b: 0.04472231, a: 0.392}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -10317,10 +10317,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 1933693403}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d9457da6658f54847aa9957685625d61, type: 3}
+  m_Script: {fileID: 11500000, guid: 4cff08ae45907a54d95ceb5c214fccb2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: 4
+  nextScene: 3
 --- !u!61 &1933693405
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -10427,7 +10427,7 @@ Transform:
   m_GameObject: {fileID: 1933693403}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 134.43, y: 3.21, z: 0}
+  m_LocalPosition: {x: 134.43, y: 3.21, z: 0.11}
   m_LocalScale: {x: 11.042295, y: 11.042295, z: 11.042295}
   m_ConstrainProportionsScale: 0
   m_Children: []
