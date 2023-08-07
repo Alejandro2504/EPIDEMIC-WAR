@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Inicio.unity
+    guid: 115b290c745e1164d82b14293d5216c1
+  - enabled: 1
+    path: Assets/Scenes/Principal.unity
+    guid: baee870299b29d34db58af446650a65c
+  - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: 553f91799556c90498be61811ce8cbb4
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 1.unity
+    guid: 4f714d90d2b9b7741887d0d0d86e63b2
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 2.unity
+    guid: aa1ac4addcb6a684f8fd02c4a3688bc2
+  - enabled: 1
+    path: Assets/Scenes/NIVEL 3.unity
+    guid: 9dbc17cd6d452144f8ef554279df2bc9
+  - enabled: 1
+    path: Assets/Scenes/SUBNIVEL 3.unity
+    guid: 6c598b9fa28ce6e419a920adc2b6428b
+  - enabled: 1
+    path: Assets/Scenes/Ayuda.unity
+    guid: a8ea0d3c57ae5354aa829f13b379f341
+  - enabled: 1
+    path: Assets/Scenes/Configuracion.unity
+    guid: 38a9118fe6e64c94aa6c6cbff2c34387
+  - enabled: 1
+    path: Assets/Scenes/Desarrollador.unity
+    guid: 7b39c43d111e5854aa6701f81118a3fe
+  - enabled: 1
+    path: Assets/Scenes/Ganaste.unity
+    guid: bc6154dccdf310d4ebaf20d6ab0793a6
+  m_configObjects: {}
